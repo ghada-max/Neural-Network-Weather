@@ -1,3 +1,4 @@
+## 🏗️ Mathematical Integration & Data Flow Architecture
 ```mermaid
 graph TD
     A["Raw Data: tmax, tmin, rain"] -->|StandardScaler| B["Normalized Input Batch X"]
